@@ -12,6 +12,26 @@
 #  releasedate: Y-M-D
 #  western: true|false
 
+- name: Midora
+  about:  Midora is a love letter to the classic 2D action-adventure games, like The Legend of Zelda and enamored audiences for generations.
+  gerne: RPG 
+  image: http://i.imgur.com/cLjC5Ai.jpg
+  gamewebsite: http://www.midora.net/preorder
+  devwebsite: http://www.epicminds.net/
+  dateadd: 2015-02-19
+  releasedate: 
+  western: true
+
+- name: VA-11 HALL-A
+  about: Cyberpunk Bartender Action is a booze em' up about waifus, technology, and post-dystopia life.
+  gerne: Simulation
+  image: http://i.imgur.com/F9A280t.jpg?1
+  gamewebsite: http://waifubartending.com/
+  devwebsite: http://kiririn51.itch.io/
+  dateadd: 2015-02-19
+  releasedate: 
+  western: true
+ 
 - name: Risk of Rain
   about: Risk of Rain is an action platformer/adventure game with randomized elements.While we don’t want to spoil the story, we can let a few things through! The game is set in the distant future, where space transportation is common.
   gerne: Adventure
